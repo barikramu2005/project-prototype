@@ -1,4 +1,4 @@
 # project-prototype
 Prototype for university project
 <br>
-Author - Ramu Barik
+Author - Ramu Barik (Prototype)
